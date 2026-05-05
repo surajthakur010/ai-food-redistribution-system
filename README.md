@@ -55,9 +55,7 @@ The system uses data-driven techniques to forecast excess food generation and in
 ```
 project/
 │── main.ipynb
-│── requirements.txt
 │── README.md
-│── data/
 ```
 
 ---
@@ -67,22 +65,16 @@ project/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/surajthakur010/ai-food-redistribution-system.git
 ```
 
 ### 2️⃣ Navigate to project folder
 
 ```bash
-cd your-repo-name
+cd ai-food-redistribution-system
 ```
 
-### 3️⃣ Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 4️⃣ Run the project
+### 3️⃣ Run the project
 
 * Open Jupyter Notebook
 * Run `main.ipynb`
